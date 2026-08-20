@@ -176,7 +176,7 @@ export default function ProductoForm({
                 <button
                   type="button"
                   onClick={manejarCrearCategoria}
-                  className="px-3 py-2 text-sm font-medium text-white bg-[#2A3FA0] hover:bg-[#22337f] rounded-lg transition-colors"
+className="px-3 py-2 text-sm font-medium text-[#3D2622] bg-[#E3C4BA] hover:bg-[#D9AFA3] rounded-lg transition-colors"
                 >
                   Crear
                 </button>
@@ -215,7 +215,7 @@ export default function ProductoForm({
                   value={nombreNuevoProveedor}
                   onChange={(e) => setNombreNuevoProveedor(e.target.value)}
                   placeholder="Nombre del proveedor"
-                  className="flex-1 px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#2A3FA0]"
+className="px-3 py-2 text-sm font-medium text-[#3D2622] bg-[#E3C4BA] hover:bg-[#D9AFA3] rounded-lg transition-colors"
                 />
                 <button
                   type="button"

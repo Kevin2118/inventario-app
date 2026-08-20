@@ -48,7 +48,7 @@ export default function ProductosPage() {
           </div>
           <button
             onClick={abrirCrear}
-            className="px-4 py-2.5 text-sm font-medium text-white bg-[#2A3FA0] hover:bg-[#22337f] rounded-lg transition-colors"
+className="px-4 py-2.5 text-sm font-medium text-[#3D2622] bg-[#E3C4BA] hover:bg-[#D9AFA3] rounded-lg transition-colors"
           >
             + Nuevo producto
           </button>
