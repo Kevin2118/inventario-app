@@ -4,7 +4,10 @@ CRUD completo para gestión de productos, categorías y proveedores. Proyecto fu
 
 ## 🚀 Demo en vivo
 
-> Próximamente
+**Frontend:** https://inventario-app-sandy.vercel.app
+**API:** https://inventario-backend-2bve.onrender.com
+
+> Nota: el backend está en un plan gratuito, así que la primera carga puede tardar hasta 50 segundos si estuvo inactivo.
 
 ## ✨ Funcionalidades
 
